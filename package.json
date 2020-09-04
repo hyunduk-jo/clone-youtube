@@ -1,0 +1,22 @@
+{
+  "name": "clone-youtube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunduk-jo/clone-youtube.git"
+  },
+  "author": "hyunduk-jo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyunduk-jo/clone-youtube/issues"
+  },
+  "homepage": "https://github.com/hyunduk-jo/clone-youtube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
